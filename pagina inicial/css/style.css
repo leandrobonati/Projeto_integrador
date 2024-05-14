@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin:0 ;
+    font-family: "Mulish", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+  
+
+
+header {
+    background-color: #91c041;
+    position: relative;
+    height: 30px;
+    display: flex ;
+    text-indent: 40px;
+
+}
+
+.cabeca {
+    text-indent: 140px;
+    position: relative;
+    display: flex ;
+    top: 5px ;
+    color:white;
+
+}
+.cabeca2 {
+    text-indent: 1200px;
+    position: relative;
+    display: flex ;
+    top: 5px ; 
+    color: white; 
+
+}
+.header {
+    background-color: #f1f0f6; 
+    height: 101px;
+    display: flex;
+     position: fixed;
+     padding-left:100%;
+     height: 12%;
+}
+
+img {
+    width: 100px;
+    min-width: 300px;
+    position: absolute;
+    left: 7%;
+    top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
